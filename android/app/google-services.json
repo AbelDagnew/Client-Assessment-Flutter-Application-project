@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943609389500",
+    "project_id": "hassc-4436e",
+    "storage_bucket": "hassc-4436e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943609389500:android:4a53effd453eb3e3c60bb9",
+        "android_client_info": {
+          "package_name": "ufinix.hassc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943609389500-aij752j813kp8hhgfh8jb65nbjm97lo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjYHyeXHU1DblxPNNE7epNEAxPvtF7Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943609389500-aij752j813kp8hhgfh8jb65nbjm97lo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
